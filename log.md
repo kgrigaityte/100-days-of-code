@@ -18,8 +18,29 @@ https://dribbble.com/ - webpage full of illustration projects (can use for color
 
 ### Day 2: January 2, 2018
 
-**Today's Progress**: 
+**Today's Progress:** made a dynamic 3D heatmap using holoviews and bokeh plots for FISseq data visualisation page. Started on random quote generator page design.
+
+**Thoughts:** the Koala exercise on Day 1 was so helpful in better understanding layouts!
+
+**Link to work:** https://codepen.io/kristinalearns/pen/YYQgaJ
+
+
+
+### Day 3: January 3, 2018
+
+**Today's Progress:** finished the design of random quote generator. 
+
+**Thoughts:** Ready to start with JavaScript, which is a bit intimidating. Realized that still lack some understanding of CSS/HTML layouts in terms of positioning (relative vs absolute).
+
+**Link to work:** https://codepen.io/kristinalearns/pen/YYQgaJ
+
+
+
+### Day 4: January 4, 2018
+
+**Today's Progress:** 
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:**
+
