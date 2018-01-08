@@ -38,9 +38,47 @@ https://dribbble.com/ - webpage full of illustration projects (can use for color
 
 ### Day 4: January 4, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Started figuring JavaScript for the Quote generator.
 
-**Thoughts:** 
+**Thoughts:** No much progress on the actual product, but I'm starting to understand JavaScript functions better.
 
-**Link to work:**
+**Link to work:** https://codepen.io/kristinalearns/pen/YYQgaJ
+
+
+### Day 5: January 5, 2018
+
+**Today's Progress:** Spend a lot of time reading other people's JavaScript code and exploring.
+
+**Thoughts:** Learning to read JavaScript code leads to better understanding how to write the code.
+
+**Link to work:** N/A
+
+
+### Day 6: January 6, 2018
+
+**Today's Progress:** Figured out how to change text in HTML code with JavaScript functions.
+
+**Thoughts:** Asked for help on Twitter, which was very successful: https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
+
+**Link to work:** https://codepen.io/kristinalearns/pen/YYQgaJ
+
+
+### Day 7: January 7, 2018
+
+**Today's Progress:** Tried to implement API, but without success, so no progress.
+
+**Thoughts:** Asked for help on Twitter again, and got come guidance again: 
+https://googleweblight.com/i?u=https://developer.mozilla.org/en/docs/Web/API/Fetch_API&grqid=Cp6USBIN&hl=en-IN
+https://www.youtube.com/watch?v=Oive66jrwBs&feature=youtu.be
+
+**Link to work:** https://codepen.io/kristinalearns/pen/YYQgaJ
+
+
+### Day 8: January 8, 2018
+
+**Today's Progress:** Completed the CNC2018 pre-mission.
+
+**Thoughts:** Realized that I have high expectations of myself, which leads to some frustration when can't make something to work quickly.
+
+**Link to work:** N/A
 
