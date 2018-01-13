@@ -82,3 +82,13 @@ https://www.youtube.com/watch?v=Oive66jrwBs&feature=youtu.be
 
 **Link to work:** N/A
 
+
+### Day 9-12: January 9-12, 2018
+
+**Today's Progress:** Completed Random Quote Generator!.
+
+**Thoughts:** Learned how to do fetch API, but will need more practise to use different APIs with different required parameters.
+Learned how to add a tweet button.
+
+**Link to work:** https://codepen.io/kristinalearns/full/YYQgaJ/
+
