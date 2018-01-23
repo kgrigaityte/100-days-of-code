@@ -92,3 +92,20 @@ Learned how to add a tweet button.
 
 **Link to work:** https://codepen.io/kristinalearns/full/YYQgaJ/
 
+### Day 13: January 13, 2018
+
+**Today's Progress:** Started Udemy front-end development course.
+
+**Thoughts:** Learned how to set up an HTML file, how to use insector on Chrome. Good way to reinforce knowledge I acquired with freecodecamp.
+
+**Resources:** https://www.udemy.com/foundations-of-front-end-development/learn/v4/t/lecture/1750408?start=0
+
+### Day 14: January 22, 2018
+
+**Today's Progress:** Progress with Udemy front-end course.
+
+**Thoughts:** Reinforced my knowledge on various HTML elements. Particularly, now understand the difference between div and span, section and article.
+
+**Resources:** http://jsbin.com/?html,output - for trying html code. 
+https://developer.mozilla.org/en-US/docs/Web/HTML - doc for html elements and their attributes.
+
