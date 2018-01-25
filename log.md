@@ -96,7 +96,7 @@ Learned how to add a tweet button.
 
 **Today's Progress:** Started Udemy front-end development course.
 
-**Thoughts:** Learned how to set up an HTML file, how to use insector on Chrome. Good way to reinforce knowledge I acquired with freecodecamp.
+**Thoughts:** Learned how to set up an HTML file, how to use inspector on Chrome. Good way to reinforce knowledge I acquired with freecodecamp.
 
 **Resources:** https://www.udemy.com/foundations-of-front-end-development/learn/v4/t/lecture/1750408?start=0
 
@@ -108,4 +108,13 @@ Learned how to add a tweet button.
 
 **Resources:** http://jsbin.com/?html,output - for trying html code. 
 https://developer.mozilla.org/en-US/docs/Web/HTML - doc for html elements and their attributes.
+
+### Day 15-16: January 23-24, 2018
+
+**Today's Progress:** Finished html part of Udemy fron end development course and started with css.
+
+**Thoughts:** Solidified my html knowledge.
+
+**Resources:** N/A
+
 
